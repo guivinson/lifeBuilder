@@ -1,0 +1,2 @@
+empty File needed for spring boot configuration as git doesn't allow commit of empty directories.
+Remove this when the directory is not empty anymore.
